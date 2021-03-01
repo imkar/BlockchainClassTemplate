@@ -14,9 +14,10 @@ Operations clients can make on the Blockchain class:
 Installing requirements:
 
 $ pip install Pyro4
+
 Run above command after installing Python3 and pip.
 
-# Run the below command below before running Blockchain Servers:
+## Run the below command below before running Blockchain Servers:
 
 $ python -m Pyro4.naming 
 
